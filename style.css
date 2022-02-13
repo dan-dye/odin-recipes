@@ -17,3 +17,8 @@ ol, ul {
 h1 {
   font-size: 42px;
 }
+
+img {
+  width: 300px;
+  height: auto;
+}
